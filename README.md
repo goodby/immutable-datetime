@@ -4,11 +4,11 @@
 
 ## What is ImmutableDatetime?
 
-editing...
+This is a imutable datetime library.
 
 ## Requirements
 
-editing...
+* PHP 5.4
 
 ## Installation
 
@@ -40,7 +40,7 @@ ImmutableDatetime is open-sourced software licensed under the MIT License - see 
 
 ## Documentation
 
-editing...
+See unit test.
 
 
 ## Contributing
